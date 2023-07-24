@@ -1,5 +1,5 @@
-# Robust Pong
-An example multiplayer project for RobustToolbox.
+# Robust Buttplug Pong
+Demo usage of Robust.Buttplug
 
 
 ## How to build, and run
